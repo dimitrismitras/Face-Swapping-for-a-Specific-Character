@@ -17,6 +17,4 @@ The project structure includes separate examples for each section (Face Detectio
 
 Useful links containing the techniques we employed, for further understanding.
 1.RetinaFace: Single-stage Dense Face Localisation in the Wild https://arxiv.org/pdf/1905.00641.pdf
-2.FaceNet: A Unified Embedding for Face Recognition and Clustering https://arxiv.org/pdf/1503.03832.pdf 
-3.ONNX Face Swapper: https://github.com/onnx/onnx 
-![image](https://github.com/dimitrismitras/Face-Swapping-for-a-Specific-Character/assets/36934476/c1e81da8-e8d7-4273-a297-30b50ba520cc)
+
