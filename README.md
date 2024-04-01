@@ -1,3 +1,6 @@
+
+You can access my Google Drive folder containing the notebook file, complete presentation, and input-output video examples via the following link: https://drive.google.com/drive/folders/1jaOlo5_cm6B5F9Va4ALm4_Uj7NTy45A2?usp=sharing
+
 # Face-Swapping-for-a-Specific-Character
 Video Creation with a Face Swapping of a specific character
 
@@ -19,6 +22,9 @@ Useful links containing the techniques we employed, for further understanding.
 
 1.RetinaFace: Single-stage Dense Face Localisation in the Wild https://arxiv.org/pdf/1905.00641.pdf
 2.FaceNet: A Unified Embedding for Face Recognition and Clustering https://arxiv.org/pdf/1503.03832.pdf 
+
+
+
 3.ONNX Face Swapper: https://github.com/onnx/onnx 
 
 
